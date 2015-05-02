@@ -1,0 +1,38 @@
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 2 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 2 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 2 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 2 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 2
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 18
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'weight' from local 18 default edge to shared: 2 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'weight' to table: 2 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 2 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 18 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testA' from local 18 default edge to shared: 2 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testA' to table: 2 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 2 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 18 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testB' from local 18 default edge to shared: 2 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testB' to table: 2 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 2 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 18 default edge

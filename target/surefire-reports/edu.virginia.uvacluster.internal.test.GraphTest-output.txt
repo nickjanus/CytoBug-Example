@@ -1,0 +1,389 @@
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 388 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 388 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 388 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 388 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 388
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 404
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'weight' from local 404 default edge to shared: 388 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'weight' to table: 388 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 388 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 404 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testA' from local 404 default edge to shared: 388 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testA' to table: 388 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 388 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 404 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testB' from local 404 default edge to shared: 388 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testB' to table: 388 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 388 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 404 default edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 425 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 425 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 425 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 425 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 425
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 441
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 512 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 512 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 512 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 512 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 512
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 528
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 544 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 544 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 544 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 544 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 544
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 560
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'weight' from local 560 default edge to shared: 544 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'weight' to table: 544 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 544 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 560 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testA' from local 560 default edge to shared: 544 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testA' to table: 544 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 544 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 560 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testB' from local 560 default edge to shared: 544 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testB' to table: 544 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 544 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 560 default edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 581 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 581 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 581 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 581 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 581
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 597
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 668 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 668 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 668 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 668 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 668
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 684
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 703 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 703 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 703 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 703 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 703
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 719
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'weight' from local 719 default edge to shared: 703 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'weight' to table: 703 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 703 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 719 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testA' from local 719 default edge to shared: 703 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testA' to table: 703 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 703 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 719 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testB' from local 719 default edge to shared: 703 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testB' to table: 703 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 703 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 719 default edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 740 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 740 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 740 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 740 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 740
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 756
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 827 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 827 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 827 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 827 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 827
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 843
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 853 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 853 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 853 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 853 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 853
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 869
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'min' from local 843 default node to shared: 827 shared node: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'min' to table: 827 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: min to local table: 827 default node
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: min to local table: 843 default node
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'max' from local 843 default node to shared: 827 shared node: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'max' to table: 827 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: max to local table: 827 default node
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: max to local table: 843 default node
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'Probability' from local 843 default edge to shared: 827 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'Probability' to table: 827 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: Probability to local table: 827 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: Probability to local table: 843 default edge
+0.2857142857142857
+0.2857142857142857
+0.42857142857142855
+0.2857142857142857
+0.2857142857142857
+0.42857142857142855
+0.5
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.6
+0.25
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.2
+0.25
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.5
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.2
+0.5
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.5
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.6
+0.3333333333333333
+0.3333333333333333
+0.2
+0.3333333333333333
+0.3333333333333333
+0.2
+0.5
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.25
+0.3333333333333333
+0.3333333333333333
+0.5
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+0.6
+0.3333333333333333
+0.3333333333333333
+0.2
+0.3333333333333333
+0.3333333333333333
+0.2
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1009 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 1009 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1009 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1009 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 1009
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 1025
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'weight' from local 1025 default edge to shared: 1009 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'weight' to table: 1009 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 1009 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: weight to local table: 1025 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testA' from local 1025 default edge to shared: 1009 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testA' to table: 1009 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 1009 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testA to local table: 1025 default edge
+[org.cytoscape.model.internal.LocalTableFacade] : delegating createColumn 'testB' from local 1025 default edge to shared: 1009 shared edge: java.lang.Double false
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'testB' to table: 1009 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   -- found subnetwork with local tables: null
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 1009 default edge
+[org.cytoscape.model.internal.SharedTableFacade] : adding virtual column: testB to local table: 1025 default edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1046 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 1046 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1046 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1046 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 1046
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 1062
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1133 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared interaction' to table: 1133 shared edge
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1133 shared network
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.SharedTableFacade] : adding real column: 'shared name' to table: 1133 shared node
+[org.cytoscape.model.internal.SharedTableFacade] :   - looking for local tables: 
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: ID = 1133
+[org.cytoscape.model.internal.CyNetworkFactoryImpl] : CyNetwork w/ public tables created: Base Graph ID = 1149

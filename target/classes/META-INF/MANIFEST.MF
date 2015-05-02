@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1430596895148
+Build-Jdk: 1.7.0_75
+Built-By: nick
+Bundle-Activator: edu.virginia.uvacluster.internal.CyActivator
+Bundle-ClassPath: .,ejml-0.23.jar,commons-io-2.4.jar
+Bundle-ManifestVersion: 2
+Bundle-Name: edu.virginia.uvacluster.uvacluster-app [edu.virginia.uvaclu
+ ster]
+Bundle-SymbolicName: edu.virginia.uvacluster.uvacluster-app
+Bundle-Version: 0.0.2.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Embed-Dependency: ejml,commons-io,commons-lang;inline=true
+Embedded-Artifacts: ejml-0.23.jar;g="com.googlecode.efficient-java-matri
+ x-library";a="ejml";v="0.23",commons-io-2.4.jar;g="commons-io";a="commo
+ ns-io";v="2.4"
+Import-Package: javax.swing;resolution:=optional,org.cytoscape.model;res
+ olution:=optional;version="[3.2,4)",org.cytoscape.service.util;resoluti
+ on:=optional;version="[3.2,4)",org.cytoscape.session;resolution:=option
+ al;version="[3.2,4)",org.cytoscape.task;resolution:=optional;version="[
+ 3.2,4)",org.cytoscape.view.model;resolution:=optional;version="[3.2,4)"
+ ,org.cytoscape.work;resolution:=optional;version="[3.2,4)",org.osgi.fra
+ mework;resolution:=optional;version="[1.5,2)"
+Tool: Bnd-1.50.0

@@ -1,0 +1,4 @@
+-Account for graphs with other "Root" origin nodes
+-Add warning for probability column
+-Normalization
+-Fix model creation bug
